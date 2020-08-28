@@ -1,0 +1,23 @@
+{
+  "name": "github-doc-server-lib-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diberry/github-doc-server-lib-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diberry/github-doc-server-lib-test/issues"
+  },
+  "homepage": "https://github.com/diberry/github-doc-server-lib-test#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "github-doc-server-lib": "^1.0.3"
+  }
+}
